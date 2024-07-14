@@ -35,7 +35,7 @@ st.markdown(
 )
 
 # Load your data
-data = pd.read_csv('C://Users//Jai//Downloads//POWER_Regional_Monthly_1984_2022.csv')
+data = pd.read_csv('POWER_Regional_Monthly_1984_2022.csv')
 
 # Placeholder for machine learning model integration
 st.subheader("Machine Learning Predictions On Climate Change")
