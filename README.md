@@ -10,7 +10,8 @@ The app visualizes climate data on a map and allows users to select parameters f
 **Flowchart**
 
 
-![ML](https://github.com/user-attachments/assets/57eba67f-a0a5-4904-bd4d-8467fce23fc8)
+![ML drawio](https://github.com/user-attachments/assets/69d928ae-b5c0-4977-bce3-01625d93b946)
+
 
 
 
