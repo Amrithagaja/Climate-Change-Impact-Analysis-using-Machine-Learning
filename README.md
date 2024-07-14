@@ -8,7 +8,8 @@ This Streamlit web application analyzes climate change data and provides machine
 The app visualizes climate data on a map and allows users to select parameters for analysis. It integrates machine learning to predict climate impacts at specified locations and months.
 
 **Flowchart**
-![image](https://github.com/user-attachments/assets/2227d6f3-5639-47ca-a066-0757c7e43ee9)
+![ML](https://github.com/user-attachments/assets/57eba67f-a0a5-4904-bd4d-8467fce23fc8)
+
 
 
 
